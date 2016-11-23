@@ -2,7 +2,7 @@ PODS:
   - Bolts/Tasks (1.8.4)
   - Parse (1.14.2):
     - Bolts/Tasks (~> 1.8)
-  - RxSwift (2.0.0)
+  - RxSwift (2.6.1)
 
 DEPENDENCIES:
   - Parse
@@ -11,7 +11,7 @@ DEPENDENCIES:
 SPEC CHECKSUMS:
   Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
   Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
-  RxSwift: d83246efa6f16c50c143bec134649d045498f601
+  RxSwift: 0147fbf94e65c6085da9540de92848189ac1c3f6
 
 PODFILE CHECKSUM: d28fd7840286cc9f5ea438b433403c3b05b40a32
 
