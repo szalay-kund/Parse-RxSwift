@@ -6,8 +6,6 @@
 //  Copyright © 2016 Andrew Breckenridge. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
 //! Project version number for Parse-RxSwift.
 FOUNDATION_EXPORT double Parse_RxSwiftVersionNumber;
 
