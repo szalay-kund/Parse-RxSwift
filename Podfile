@@ -10,6 +10,6 @@ inhibit_all_warnings!
 use_frameworks!
 
 target 'Parse+RxSwift' do
-  pod 'RxSwift', '2.0'
+  pod 'RxSwift', '~> 2.0'
   pod 'Parse'
 end

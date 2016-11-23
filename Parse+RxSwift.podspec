@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
   s.platforms    = { :ios => "8.0", :osx => "10.9"}
   s.source       = { :git => "https://github.com/szalay-kund/Parse-RxSwift.git", :tag => "#{s.version}" }
   s.source_files = "Parse+RxSwift"
+  s.frameworks  = "UIKit", "Foundation"
   s.requires_arc = true
-  s.dependencies = { "Parse" => ">= 1.9.0", "RxSwift" => ">= 2.0.0-alpha.4" }
+  s.dependencies = { "Parse", "RxSwift" => "2.0.0" }
 end
