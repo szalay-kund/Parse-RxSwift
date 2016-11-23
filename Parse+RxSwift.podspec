@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.source_files = "Parse+RxSwift"
   s.frameworks  = "UIKit", "Foundation"
   s.requires_arc = true
-  s.dependencies = { "Parse", "RxSwift" => "2.0.0" }
+  s.dependencies = { "Parse" => ">= 1.9.0", "RxSwift" => "= 2.0.0" }
 end
